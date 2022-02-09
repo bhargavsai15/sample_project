@@ -1,1 +1,23 @@
+body {
+    background-color:black;
+    font-family:arial;color:white;
+}
+h1{
+    color:grey;
+    font-family:verdana;
+}
 
+.maindiv {
+    background-color:white;
+    color:black;
+    width:480px;
+    padding:23px;
+    border-radius:25px;
+    margin-left: 500px;
+
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+  }
